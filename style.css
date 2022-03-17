@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    height:50px;
+}
+
+h1{
+    color: white;
+}
+
+.navbar navbar-expand-lg{
+    background-color: black;
+    color: white;
+}
